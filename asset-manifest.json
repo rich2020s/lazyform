@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lazyform/static/css/main.c7637a85.chunk.css",
+    "main.js": "/lazyform/static/js/main.d3e79526.chunk.js",
+    "main.js.map": "/lazyform/static/js/main.d3e79526.chunk.js.map",
+    "runtime-main.js": "/lazyform/static/js/runtime-main.9dadea62.js",
+    "runtime-main.js.map": "/lazyform/static/js/runtime-main.9dadea62.js.map",
+    "static/js/2.cde8373c.chunk.js": "/lazyform/static/js/2.cde8373c.chunk.js",
+    "static/js/2.cde8373c.chunk.js.map": "/lazyform/static/js/2.cde8373c.chunk.js.map",
+    "index.html": "/lazyform/index.html",
+    "static/css/main.c7637a85.chunk.css.map": "/lazyform/static/css/main.c7637a85.chunk.css.map",
+    "static/js/2.cde8373c.chunk.js.LICENSE.txt": "/lazyform/static/js/2.cde8373c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dadea62.js",
+    "static/js/2.cde8373c.chunk.js",
+    "static/css/main.c7637a85.chunk.css",
+    "static/js/main.d3e79526.chunk.js"
+  ]
+}
